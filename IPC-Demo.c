@@ -1,5 +1,5 @@
 /*
-Assignment1.c
+IPC-Demo.c
 Finds median of 25 integers contained in 5 seperate text files
 Through the creation of 5 child processes controlled by parent
 Written by Benjamin Jollymore A00400128
