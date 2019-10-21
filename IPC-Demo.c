@@ -299,7 +299,7 @@ void executeParentProcess() {
 			read(childToParent[i][READ], &mValues[i - 1], sizeof(int));
 		}
 
-		//sum value m from array of m values
+		//sum value m from array of generic m values
 		int mVal = (mValues[0] + mValues[1] + mValues[2] + mValues[3] + mValues[4]);
 
 		//if m is equal to value k, median has been found
